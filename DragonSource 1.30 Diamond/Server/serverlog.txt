@@ -1,0 +1,11 @@
+23:51:29: Received connection from 127.0.0.1.
+23:51:36: Connection from 127.0.0.1 has been terminated.
+23:52:44: Received connection from 127.0.0.1.
+23:52:59: Connection from 127.0.0.1 has been terminated.
+23:54:51: Received connection from 127.0.0.1.
+23:54:57: Connection from 127.0.0.1 has been terminated.
+23:55:53: Received connection from 127.0.0.1.
+23:59:01: Tester has disconnected from DragonSource 1.3.
+23:59:01: Connection from 127.0.0.1 has been terminated.
+23:59:01: Connection from 127.0.0.1 has been terminated.
+18:32:10: Received connection from 127.0.0.1.
